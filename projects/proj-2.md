@@ -10,6 +10,5 @@ This project uses decision trees and ensemble models to predict credit card defa
 I used `scikit-learn`, `LightGBM`, and cross-validation to evaluate performance.
 
 🧠 **Tech used**: Python, Pandas, LightGBM, sklearn  
-📁 > Notebook coming soon.
 
-
+# Notebook coming soon
