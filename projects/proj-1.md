@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Loan Approval Classifier
-permalink: /proj-1/
+permalink: /projects/proj-1/
 ---
 
 # Loan Approval Classifier
