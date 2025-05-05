@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Credit Risk Model
-permalink: /proj-2/
+permalink: /projects/proj-2/
 ---
 
 # Credit Risk Model
