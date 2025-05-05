@@ -10,5 +10,6 @@ This project explores classification algorithms to predict loan approvals.
 Tech stack includes logistic regression, decision trees, and ensemble models.
 
 🧠 **Tools used**: Python, scikit-learn, pandas  
-📁 [View the notebook](https://github.com/RalucaAM/loan-approval-project/blob/main/loan_classifier.ipynb)
+📁 > Notebook coming soon.
+
 
