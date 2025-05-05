@@ -11,5 +11,3 @@ Tech stack includes logistic regression, decision trees, and ensemble models.
 
 🧠 **Tools used**: Python, scikit-learn, pandas  
 📁 > Notebook coming soon.
-
-
